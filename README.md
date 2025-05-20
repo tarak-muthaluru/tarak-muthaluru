@@ -15,11 +15,11 @@ I'm a recent ECE graduate who transitioned into data science with a strong drive
 
 ## 🔧 Skills & Tools
 
-- **Languages:** Python, C++
-- **Data Science:** pandas, numpy, matplotlib, seaborn, scikit-learn
-- **Visualization & BI:** Power BI, Excel
-- **Tools:** Jupyter Notebook, Git & GitHub
-- **Databases:** SQL (basic queries, joins, filtering)
+- **Languages**: Python,SQL
+- **Data Science**: pandas, numpy, matplotlib, seaborn, scikit-learn
+- **Visualization & BI**: Power BI, Excel
+- **Tools**: Jupyter Notebook, Git & GitHub
+- **Databases**: SQL (basic queries, joins, filtering)
 
 ---
 
@@ -39,6 +39,7 @@ I'm a recent ECE graduate who transitioned into data science with a strong drive
 - ✅ Python Advanced (OOP, File Handling, Modules)
 - ✅ Jupyter & GitHub Project Management
 - 🔄 Machine Learning Algorithms (Regression, Classification)
+- 🔄 Deep Learning (Neural Networks, TensorFlow, Keras – coming up!)
 - 🔄 SQL for Data Analysis
 - 🔄 Power BI Dashboards
 
@@ -48,7 +49,7 @@ I'm a recent ECE graduate who transitioned into data science with a strong drive
 
 - 🔗 [LinkedIn](https://linkedin.com/in/muthaluru-tarak-b2301a285)
 - 📧 Email: tharakm21@gmail.com 
-- 💬 Ask me about: Python, ML Projects, Power BI
+- 💬 Ask me about: Python, ML Projects, Deep Learning, SQL,  Power BI
 
 ---
 
