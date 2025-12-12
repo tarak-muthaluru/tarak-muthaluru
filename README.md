@@ -15,13 +15,13 @@ I'm a recent ECE graduate who transitioned into data science with a strong drive
 
 ## 🔧 Skills & Tools
 
-• **Excel / Google Sheets**: Formulas, Pivot Tables, Lookups, Data Cleaning
-• **Data Analysis & Visualization**: Power BI, MS Excel, Power Query
-• **Programming**: Python, SQL
-• **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-• **Machine Learning & NLP**: Regression, Classification, Clustering, Feature Engineering, TF-IDF, Sentence Transformers
-• **Databases**: MySQL, PostgreSQL
-• **Platforms & Tools**: GitHub, Jupyter Notebook, VS Code, Databricks
+-• **Excel / Google Sheets**: Formulas, Pivot Tables, Lookups, Data Cleaning
+-• **Data Analysis & Visualization**: Power BI, MS Excel, Power Query
+-• **Programming**: Python, SQL
+-• **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+-• **Machine Learning & NLP**: Regression, Classification, Clustering, Feature Engineering, TF-IDF, Sentence Transformers
+-• **Databases**: MySQL, PostgreSQL
+-• **Platforms & Tools**: GitHub, Jupyter Notebook, VS Code, Databricks
 
 ---
 
